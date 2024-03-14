@@ -13,7 +13,7 @@
 1 Fork本项目到自己的仓库  
   
 2 将本仓库克隆到本地  
-  `git clone git@github.com:user/example_repo.git`  
+  `git clone git@github.com:Benxaomin/SortAlgorithmPractice.git`  
   
 3 创建一个分支  
   `git checkout -b "你的分支名"`    
